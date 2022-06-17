@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/exil/static/css/main.bf07bc93.css",
+    "main.js": "/exil/static/js/main.8fed5da9.js",
+    "static/media/handling-bg.jpg": "/exil/static/media/handling-bg.3981769b3b9c822868be.jpg",
+    "static/media/options-bg.jpg": "/exil/static/media/options-bg.0695429347ea23b0d677.jpg",
+    "static/media/power-bg.jpg": "/exil/static/media/power-bg.478167446561db2d9a97.jpg",
+    "static/media/contact-bg.jpg": "/exil/static/media/contact-bg.d55cf1290d5894a87a76.jpg",
+    "static/media/speed-bg.jpg": "/exil/static/media/speed-bg.326ef4fa0bd3a5b77c4e.jpg",
+    "index.html": "/exil/index.html",
+    "main.bf07bc93.css.map": "/exil/static/css/main.bf07bc93.css.map",
+    "main.8fed5da9.js.map": "/exil/static/js/main.8fed5da9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf07bc93.css",
+    "static/js/main.8fed5da9.js"
+  ]
+}
